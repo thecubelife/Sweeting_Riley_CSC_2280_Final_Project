@@ -1,0 +1,482 @@
+>>> %Run 'Final Project Vigenere Draft.py'
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 1
+
+You have chosen to: Encrypt a Message
+
+----------------------------------------------------
+|                Encryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Encrypt using Caesar Cipher                  |
+|  2. Encrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 1
+
+----------------------------------------------------
+|            Ceaser Encryption Program             |
+----------------------------------------------------
+Enter message to be encrypted here: Hello, World!
+
+Input a numerical key here (Between 1 and 94 inclusive): 24
+
+Here is your encrypted message: &CJJM3n?MPJB^
+Remember to save your key, as it is needed to decrypt the message! Key: 24
+
+Would you like to copy the message to your clip board? yes
+
+** Message Copied to Clipboard **
+
+Would you like to select another task? yes
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 2
+
+You have chosen to: Decrypt a Message
+
+----------------------------------------------------
+|                Decryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Decrypt using Caesar Cipher                  |
+|  2. Decrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 1
+
+----------------------------------------------------
+|            Ceaser Decryption Program             |
+----------------------------------------------------
+Enter the message to be decrypted here: &CJJM3n?MPJB^
+
+Input a numerical key here (Between 1 and 94 inclusive): 24
+
+Here is the decrypted message: Hello, World!
+
+Would you like to copy the message to your clip board? no
+
+** Message NOT Copied to Clipboard **
+
+Would you like to select another task? yes
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 1
+
+You have chosen to: Encrypt a Message
+
+----------------------------------------------------
+|                Encryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Encrypt using Caesar Cipher                  |
+|  2. Encrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 2
+
+----------------------------------------------------
+|           Vigenere Encryption Program            |
+----------------------------------------------------
+Enter message to be encrypted here: Hello, Computer Science World!
+
+Please enter a secret passphrase to encrypt the message here: Smile!
+
+Here is your encrypted message: 3ADGCFRYGHD~@AJk'-+AFxsZiKJGru
+Remember to save your key, as it is needed to decrypt the message! Key: Smile!
+
+Would you like to copy the message to your clip board? yes
+
+** Message Copied to Clipboard **
+
+Would you like to select another task? yes
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 2
+
+You have chosen to: Decrypt a Message
+
+----------------------------------------------------
+|                Decryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Decrypt using Caesar Cipher                  |
+|  2. Decrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 2
+
+----------------------------------------------------
+|           Vigenere Decryption Program            |
+----------------------------------------------------
+Enter the message to be decrypted here: 3ADGCFRYGHD~@AJk'-+AFxsZiKJGru
+
+Please enter the secret passphrase used to encrypt the message here: Smile!
+
+Here is the decrypted message: Hello, Computer Science World!
+
+Would you like to copy the message to your clip board? no
+
+** Message NOT Copied to Clipboard **
+
+Would you like to select another task? yes
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 0
+
+You have entered an invalid response. Please enter 1, 2, 3, 4, or 5.
+
+Enter your choice: 6
+
+You have entered an invalid response. Please enter 1, 2, 3, 4, or 5.
+
+Enter your choice: 1
+
+You have chosen to: Encrypt a Message
+
+----------------------------------------------------
+|                Encryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Encrypt using Caesar Cipher                  |
+|  2. Encrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 1
+
+----------------------------------------------------
+|            Ceaser Encryption Program             |
+----------------------------------------------------
+Enter message to be encrypted here: Welcome to CSC's 6th Annual Non-Denominational Holiday Funtime Extravaganza! (TM)
+
+Input a numerical key here (Between 1 and 94 inclusive): 34
+
+Here is your encrypted message: ~MTKWUMx"Wx+`+8!xE"Px)VV#ITx@WVe,MVWUQVI"QWVITx:WTQLI'x.#V"QUMx-&"ZI$IOIV(I2x9{?a
+Remember to save your key, as it is needed to decrypt the message! Key: 34
+
+Would you like to copy the message to your clip board? yes
+
+** Message Copied to Clipboard **
+
+Would you like to select another task? y
+
+You have entered an invalid response. Please enter "Yes" or "No".
+
+Would you like to select another task? yes
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 3
+
+Please input message to be decoded: ~MTKWUMx"Wx+`+8!xE"Px)VV#ITx@WVe,MVWUQVI"QWVITx:WTQLI'x.#V"QUMx-&"ZI$IOIV(I2x9{?a
+
+"Welcome to CSC's 6th Annual Non-Denominational Holiday Funtime Extravaganza! (TM)"
+Does this look like the correct message? (YES or NO): yes
+
+It took 1 try to get the correct message!
+
+Would you like to select another task? yes
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 3
+
+Please input message to be decoded: ~MTKWUMx"Wx+`+8!xE"Px)VV#ITx@WVe,MVWUQVI"QWVITx:WTQLI'x.#V"QUMx-&"ZI$IOIV(I2x9{?a
+
+"Welcome to CSC's 6th Annual Non-Denominational Holiday Funtime Extravaganza! (TM)"
+Does this look like the correct message? (YES or NO): no
+
+"{JQHTRJuYTu(](5XuBYMu&SSZFQu=TSb)JSTRNSFYNTSFQu-TQNIF$u+ZSYNRJu*#YWF!FLFS%F u6^<7"
+Does this look like the correct message? (YES or NO): no
+
+"~MTKWUMx"Wx+`+8!xE"Px)VV#ITx@WVe,MVWUQVI"QWVITx:WTQLI'x.#V"QUMx-&"ZI$IOIV(I2x9{?a"
+Does this look like the correct message? (YES or NO): yes
+
+It took 3 tries to get the correct message!
+
+Would you like to select another task? yes
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 4
+
+You have chosen to: View the History of Ciphers
+
+----------------------------------------------------
+|            History of Ciphers Program            |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Learn the History the Caesar Cipher          |
+|  2. Learn the History the Vigenere Cipher        |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 1
+
+----------------------------------------------------
+|             History of Caesar Cipher             |
+----------------------------------------------------
+
+The Caesar Cipher is one of the simplest and most common encryption technique found around the world. 
+It is a substitution cipher, which involves substituting letter in the message with another letter a 
+fixed number of positions ahead in the alphabet. For example, with a key of 3, the letter "A" would 
+shift forward 3 places in the alphabet to the letter "D". (A, B (+1), C (+2), D (+3)). Its name derives 
+from Roman Emperor Julius Caesar, who first used the cipher when sending sensitive military documents. 
+Given this is a single substitution cipher, where each letter corresponds to exactly one other letter, it 
+can easily be decrytped through frequency analysis. This renders it useless for any communication security. 
+There are only as many possible combinations/encryptions as there are characters in the alphabet. In the case 
+of this program, there are 95 possible combinations, including lowercase letters, uppercase letters, digits, 
+and special characters. The Brute Force algorithm analyzes each of these combinations, and selects the most 
+likely solution depending on the frequency of English words in the combination string. Due to the nature of 
+random selection, and there sometimes being English words in the incorrect ciphers, the program may not return 
+the correct combination message as the first choice.
+
+More information on the Caesar Cipher can be found on Wikipedia. 
+
+Would you like to copy the Wikipedia article to your clipboard? yes
+
+** Article Copied to Clipboard **
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 4
+
+You have chosen to: View the History of Ciphers
+
+----------------------------------------------------
+|            History of Ciphers Program            |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Learn the History the Caesar Cipher          |
+|  2. Learn the History the Vigenere Cipher        |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 2
+
+----------------------------------------------------
+|            History of Vigenere Cipher            |
+----------------------------------------------------
+
+The Vigenere Cipher, similar to the Caesar Cipher, is an encryption method that uses a more complex version 
+of the Caesar Cipher. It is a polyalphabetic substitution cipher, meaning letters in an encrypted message may 
+correspond to more than one other letter. For example, the letter "A" can correspond to both "C" and "Y" 
+depending on the key used. For Vigenere Ciphers, the key is not a single number, but rather a passphrase which 
+can contain letters. Each letter is rotated a number of spaces forward in the alphabet. That number is the index 
+of the passphrase that corresponds to the index of the letter in the message. For example, given the message "Hello" 
+and the passphrase "Smile!", the letter "H" will be rotated forward in the alphabet 19 spaces, which is the index 
+of "S" in the alphabet. As you can probably see, there are thousands of possible combinations for a Vigenere Cipher, 
+varying with the length of the passphrase and length of the alphabet used. Because of this, in the past it has even been
+called, "le chiffrage indechiffrable," French for "the indecipherable cipher". The Vigenere Cipher was founded by 
+Giovan Battista Bellaso in 1553, but was given the name Vigenere due to the misattribution of the cipher creation to 
+Blaise de Vigenere. 
+
+More information on the Vigenere Cipher can be found on Wikipedia. 
+
+Would you like to copy the Wikipedia article to your clipboard? yes
+
+** Article Copied to Clipboard **
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 0
+
+You have entered an invalid response. Please enter 1, 2, 3, 4, or 5.
+
+Enter your choice: hello
+
+You have entered an invalid response. Please enter 1, 2, 3, 4, or 5.
+
+Enter your choice: 1
+
+You have chosen to: Encrypt a Message
+
+----------------------------------------------------
+|                Encryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Encrypt using Caesar Cipher                  |
+|  2. Encrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 3
+
+You have chosen to exit the menu.
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 2
+
+You have chosen to: Decrypt a Message
+
+----------------------------------------------------
+|                Decryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Decrypt using Caesar Cipher                  |
+|  2. Decrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 3
+
+You have chosen to exit the menu.
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 4
+
+You have chosen to: View the History of Ciphers
+
+----------------------------------------------------
+|            History of Ciphers Program            |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Learn the History the Caesar Cipher          |
+|  2. Learn the History the Vigenere Cipher        |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 3
+
+You have chosen to exit the menu.
+
+---------------------------------------------------------------
+|             Welcome to my Cyrptography Program!             |
+---------------------------------------------------------------
+| What would you like to do?                                  |
+|  1. Encrypt a Message                                       |
+|  2. Decrypt a Message                                       |
+|  3. Brute Force a Ciphertext (ONLY WORKS FOR CAESAR CIPHER) |
+|  4. History of Caesar & Vigenere Cipher                     |
+|  5. Exit                                                    |
+---------------------------------------------------------------
+Enter your choice: 1
+
+You have chosen to: Encrypt a Message
+
+----------------------------------------------------
+|                Encryption Program                |
+----------------------------------------------------
+| What would you like to do?                       |
+|  1. Encrypt using Caesar Cipher                  |
+|  2. Encrypt using Vigenere Cipher                |
+|  3. Exit                                         |
+----------------------------------------------------
+Enter your choice: 1
+
+----------------------------------------------------
+|            Ceaser Encryption Program             |
+----------------------------------------------------
+Enter message to be encrypted here: Hello
+
+Input a numerical key here (Between 1 and 94 inclusive): 4
+
+Here is your encrypted message: Lipps
+Remember to save your key, as it is needed to decrypt the message! Key: 4
+
+Would you like to copy the message to your clip board? no
+
+** Message NOT Copied to Clipboard **
+
+Would you like to select another task? no
+
+Thanks for your time. Goodbye!
+>>> 
